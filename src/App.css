@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  background-color: #11121a;
+}
+
+.header {
+  width: 100%;
+  height: 70px;
+  background-color: #1c1c24;
+  display: flex;
+  justify-content: center;
+}
